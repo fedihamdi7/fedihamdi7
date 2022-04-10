@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hamdi Fedi</h1>
 <h3 align="center">A passionate Angular developer from Tunisia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedihamdi7" alt="fedihamdi7" /></a> </p>
 
 - 🔭 I’m currently working on End of studies project [CLS-RH](https://github.com/fedihamdi7/CLS-RH-PFE)
 
@@ -27,3 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fedihamdi7&show_icons=true&locale=en" alt="fedihamdi7" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fedihamdi7&" alt="fedihamdi7" /></p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedihamdi7" alt="fedihamdi7" /></a> </p>
