@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fedihamdi7" alt="fedihamdi7" /></a> </p>
 
-- 🔭 I’m currently working on End of studies project **CLS-RH**
+- 🔭 I’m currently working on End of studies project [CLS-RH](https://github.com/fedihamdi7/CLS-RH-PFE)
 
 - 🌱 I’m currently learning **Flutter2.0 ,NestJS, Django**
 
