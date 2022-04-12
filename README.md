@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **fedihamdi97@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/posts/fedi-hamdi-505706212_resume-activity-6915248410581241856-daCM?utm_source=linkedin_share&utm_medium=member_desktop_web](https://www.linkedin.com/posts/fedi-hamdi-505706212_resume-activity-6915248410581241856-daCM?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- 📄 Know about my experiences [Resume](https://www.linkedin.com/posts/fedi-hamdi-505706212_resume-activity-6915248410581241856-daCM?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
