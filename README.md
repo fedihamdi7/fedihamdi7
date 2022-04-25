@@ -4,13 +4,13 @@
 
 - 🔭 I’m currently working on End of studies project [CLS-RH](https://github.com/fedihamdi7/CLS-RH-PFE)
 
-- 🌱 I’m currently learning **Flutter2.0 ,NestJS, Django**
+- 🌱 I’m currently learning **NgRx ,Django**
 
 - 💬 Ask me about **Angular, NodeJS, Laravel, Flutter**
 
 - 📫 How to reach me **fedihamdi97@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.linkedin.com/posts/fedi-hamdi-505706212_resume-activity-6915248410581241856-daCM?utm_source=linkedin_share&utm_medium=member_desktop_web)
+- 📄 Know about my experiences [Resume](https://www.linkedin.com/feed/update/urn:li:activity:6924259216824143873/)
 
 - 🧐 Fast learner
 
