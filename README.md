@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Angular developer from Tunisia</h3>
 
 
-- 🔭 I’m currently working on End of studies project [CLS-RH](https://github.com/fedihamdi7/CLS-RH-PFE)
+- 🔭 I’m currently working on End of studies project [CLS-RH](https://github.com/fedihamdi7/CLS-RH-PFE) , [CLS-RH-MOBILE](https://github.com/fedihamdi7/CLS-RH-MOBILE)
 
 - 🌱 I’m currently learning **NgRx ,Django**
 
