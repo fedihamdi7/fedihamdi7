@@ -12,6 +12,8 @@
 
 - 📄 Know about my experiences [Resume](https://www.linkedin.com/posts/fedi-hamdi-505706212_resume-activity-6915248410581241856-daCM?utm_source=linkedin_share&utm_medium=member_desktop_web)
 
+- 🧐 Fast learner
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/fedi-hamdi-505706212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="fedi-hamdi-505706212" height="30" width="40" /></a>
