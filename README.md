@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Angular developer from Tunisia</h3>
 
 
-- 🔭 I’m currently working as a Software Programmer for **VERMEG**. Also an **ESPRIT** student for the **Work/Study** program
+- 🔭 I’m currently **Looking For New Opportunities**. 
 
-- 🌱 I’m currently learning **JAVA, SpringBoot**
+- 🌱 I’m currently learning **NESTJS**
 
 - 💬 Ask me about **Angular, NodeJS, Laravel, Flutter**
 
 - 📫 How to reach me **fedihamdi97@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.linkedin.com/feed/update/urn:li:activity:6924259216824143873/)
+- 📄 Know about my experiences [Resume](https://www.linkedin.com/feed/update/urn:li:activity:7130383505229815808/)
 
 - 🧐 Fast learner
 
