@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **fedihamdi97@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.linkedin.com/feed/update/urn:li:activity:7130383505229815808/)
+- 📄 Know about my experiences [Portfolio](https://fedihamdi7.github.io/portfolio/)
 
 - 🧐 Fast learner
 
